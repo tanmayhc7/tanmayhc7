@@ -26,6 +26,12 @@ I've spent about six years as a software engineer. I started close to the metal,
 | 🧠 **[AlgoLingo](https://github.com/tanmayhc7/AlgoLingo)** · [▶ open](https://tanmayhc7.github.io/AlgoLingo/) | Learn Python, data structures and algorithms, built for people coming from C. Step-by-step visuals, Python and C side by side, and quizzes that run real Python in the browser |
 | 🤖 **[bheja-frAI](https://github.com/tanmayhc7/bheja-frAI)** · [▶ open](https://tanmayhc7.github.io/bheja-frAI/) | A beginner-friendly interactive course on AI: animations, live demos and quizzes in a single web page |
 
+## 🛠️ Developer tools
+
+| Project | What it is |
+|---|---|
+| 📟 **[claude-token-meter](https://github.com/tanmayhc7/claude-token-meter)** | A Claude Code plugin that shows token usage live while Claude is still responding, with budgets that warn you at 80% and 100%, a shared total across every session on your machine, and a cost calculator |
+
 ## 🔧 Systems & embedded work
 
 | Project | What it is |
