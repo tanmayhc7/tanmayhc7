@@ -1,59 +1,49 @@
-<div align="center">
+# Tanmay Chandavarkar
 
-# Hi, I'm Tanmay 👋
+Software engineer. About six years in, and I've spent most of them moving **up the stack**: from firmware and CAN buses in C, to cloud pipelines, to small interactive web tools that make hard things easy to learn.
 
-### Software engineer · embedded & systems roots · now building interactive tools for learning
+This page is organized the way my work actually grew, from the bottom layer to the top.
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-3DDC84?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br>
 
-</div>
+### 0 &nbsp;·&nbsp; Silicon
 
----
+Real-time code on ARM boards, where a missed deadline is a bug you can see.
 
-I've spent about six years as a software engineer. I started close to the metal, with firmware, CAN buses and sockets in C, and these days I'm just as happy building small, polished web tools that make hard things feel easy to learn.
+- **[Nimble-RC](https://github.com/tanmayhc7/Nimble-RC)**: an autonomous GPS-guided RC car. Three FreeRTOS nodes talking over CAN, with unit-tested driver logic.
+- **[Spartan-Warrior](https://github.com/tanmayhc7/Spartan-Warrior)**: an LED-matrix shooter and MP3 audio system built from FreeRTOS tasks.
+- **[Embedded-on-SJ2](https://github.com/tanmayhc7/Embedded-on-SJ2)**: a lab series covering GPIO, unit testing with mocks, UART/GPS and CAN.
 
-## 🚀 Things you can open and play with
+### 1 &nbsp;·&nbsp; Wires
 
-| Project | What it is |
-|---|---|
-| 🎸 **[fretRoad](https://github.com/tanmayhc7/fretRoad)** · [▶ play](https://tanmayhc7.github.io/fretRoad/) | *Learn the guitar neck by driving down it.* A free, story-driven game that turns the fretboard into a map, with no sign-up and nothing to install |
-| 🧠 **[AlgoLingo](https://github.com/tanmayhc7/AlgoLingo)** · [▶ open](https://tanmayhc7.github.io/AlgoLingo/) | Learn Python, data structures and algorithms, built for people coming from C. Step-by-step visuals, Python and C side by side, and quizzes that run real Python in the browser |
-| 🤖 **[bheja-frAI](https://github.com/tanmayhc7/bheja-frAI)** · [▶ open](https://tanmayhc7.github.io/bheja-frAI/) | A beginner-friendly interactive course on AI: animations, live demos and quizzes in a single web page |
+Getting bytes from one machine to another, and being honest about what goes wrong.
 
-## 🛠️ Developer tools
+- **[Xfer](https://github.com/tanmayhc7/Xfer)**: FTP-style file transfer built on UDP, with sequence numbers, checksums and retransmission.
+- **[Socket-Programming](https://github.com/tanmayhc7/Socket-Programming)**: TCP and HTTP clients and servers in C.
 
-| Project | What it is |
-|---|---|
-| 📟 **[claude-token-meter](https://github.com/tanmayhc7/claude-token-meter)** | A Claude Code plugin that shows token usage live while Claude is still responding, with budgets that warn you at 80% and 100%, a shared total across every session on your machine, and a cost calculator |
+### 2 &nbsp;·&nbsp; Cloud
 
-## 🔧 Systems & embedded work
+- **[Remote-Monitoring-with-AWS](https://github.com/tanmayhc7/Remote-Monitoring-with-AWS)**: a Raspberry Pi sensor feeding a remote dashboard through AWS IoT Core, Lambda and SQS.
 
-| Project | What it is |
-|---|---|
-| 🏎️ [**Nimble-RC**](https://github.com/tanmayhc7/Nimble-RC) | An autonomous GPS-guided RC car: three FreeRTOS nodes talking over CAN, with unit-tested driver logic |
-| 🛡️ [**Spartan-Warrior**](https://github.com/tanmayhc7/Spartan-Warrior) | An LED-matrix shooter and MP3 audio system on an ARM board, built from FreeRTOS tasks |
-| 📡 [**Xfer**](https://github.com/tanmayhc7/Xfer) | FTP-style file transfer built on UDP, with sequence numbers, checksums and retransmission |
-| 🌡️ [**Remote-Monitoring-with-AWS**](https://github.com/tanmayhc7/Remote-Monitoring-with-AWS) | A Raspberry Pi sensor feeding a remote dashboard via AWS IoT Core, Lambda and SQS |
-| 🔧 [**Embedded-on-SJ2**](https://github.com/tanmayhc7/Embedded-on-SJ2) | Lab series covering GPIO, unit testing with mocks, UART/GPS and CAN |
-| 🔌 [**Socket-Programming**](https://github.com/tanmayhc7/Socket-Programming) | TCP and HTTP clients and servers in C |
-| 🧠 [**C-Prog**](https://github.com/tanmayhc7/C-Prog) | Data structures and 129 LeetCode solutions, in plain C |
+### 3 &nbsp;·&nbsp; Fundamentals, in plain C
 
-## 🌱 Currently
+- **[C-Prog](https://github.com/tanmayhc7/C-Prog)**: data structures and 129 LeetCode solutions.
 
-- Building learning tools that run entirely in the browser
-- Going deeper on applied AI: LLM APIs, retrieval and evals ([ai-eng-labs](https://github.com/tanmayhc7/ai-eng-labs))
-- Keeping my systems fundamentals sharp: C, C++ and concurrency
+### 4 &nbsp;·&nbsp; The browser
+
+Free, no sign-up, nothing to install. These are the ones you can just open.
+
+- **[fretRoad](https://github.com/tanmayhc7/fretRoad)** ([play](https://tanmayhc7.github.io/fretRoad/)): learn the guitar neck by driving down it. A story-driven game that turns the fretboard into a map.
+- **[AlgoLingo](https://github.com/tanmayhc7/AlgoLingo)** ([open](https://tanmayhc7.github.io/AlgoLingo/)): Python, data structures and algorithms for people coming from C. Step-by-step visuals, Python and C side by side, and quizzes that run real Python in the browser.
+- **[bheja-frAI](https://github.com/tanmayhc7/bheja-frAI)** ([open](https://tanmayhc7.github.io/bheja-frAI/)): a beginner-friendly interactive course on AI, in a single web page, with animations, live demos and quizzes.
+
+### 5 &nbsp;·&nbsp; Tools for working with AI
+
+- **[claude-token-meter](https://github.com/tanmayhc7/claude-token-meter)**: a Claude Code plugin that shows token usage live while Claude is still responding, warns you at 80% and 100% of a budget, totals usage across every session on your machine, and prices a request before you send it.
+- **[ai-eng-labs](https://github.com/tanmayhc7/ai-eng-labs)**: working through applied AI: LLM APIs, retrieval and evals.
+
+<br>
 
 ---
 
-<div align="center">
-
-⭐ If something here helped you, a star is always appreciated.
-
-</div>
+*Right now: building learning tools that run entirely in the browser, going deeper on applied AI, and keeping my C, C++ and concurrency fundamentals sharp.*
