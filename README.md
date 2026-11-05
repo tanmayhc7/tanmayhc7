@@ -21,7 +21,7 @@ About six years as a software engineer, and I've spent them climbing the stack: 
 ╔════════════════════════════════════════════════════════════════╗
 ║  THE STACK · built from the bottom up                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  5  TOOLS FOR AI  claude-token-meter · ai-eng-labs             ║
+║  5  TOOLS FOR AI  claude-token-meter · ai-tools             ║
 ╟────────────────────────────────────────────────────────────────╢
 ║  4  BROWSER       fretRoad · AlgoLingo · bheja-frAI            ║
 ╟────────────────────────────────────────────────────────────────╢
@@ -73,9 +73,9 @@ About six years as a software engineer, and I've spent them climbing the stack: 
 <a href="https://github.com/tanmayhc7/claude-token-meter"><img src="https://img.shields.io/badge/code-24292f?style=flat-square&logo=github" alt="code" /></a>
 </td>
 <td width="50%" valign="top">
-<h3>🧪 ai-eng-labs</h3>
-<p>Hands-on work through applied AI: LLM APIs, retrieval and evals.</p>
-<a href="https://github.com/tanmayhc7/ai-eng-labs"><img src="https://img.shields.io/badge/code-24292f?style=flat-square&logo=github" alt="code" /></a>
+<h3>🔐 ai-tools</h3>
+<p>Small, privacy-first native macOS apps for people who build with AI: KeyVault, LeakGuard, Redact and ContextPack. They run locally, so your keys and data stay on your machine.</p>
+<a href="https://github.com/tanmayhc7/ai-tools"><img src="https://img.shields.io/badge/code-24292f?style=flat-square&logo=github" alt="code" /></a>
 </td>
 </tr>
 </table>
