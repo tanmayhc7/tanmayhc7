@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=D97757&center=true&vCenter=true&width=700&lines=Tanmay+Chandavarkar;Software+engineer;Curiously+building+tools+that+teach" alt="Tanmay Chandavarkar · Software engineer · Curiously building tools that teach" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=D97757&center=true&vCenter=true&width=700&lines=Tanmay+Chandavarkar;Software+engineer;Curiously+learning.+Always+building." alt="Tanmay Chandavarkar · Software engineer · Curiously learning. Always building." />
 
 <br>
 
