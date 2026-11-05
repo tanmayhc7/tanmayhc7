@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=D97757&center=true&vCenter=true&width=700&lines=Tanmay+Chandavarkar;Software+engineer;From+firmware+to+the+browser" alt="Tanmay Chandavarkar · Software engineer · From firmware to the browser" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=D97757&center=true&vCenter=true&width=700&lines=Tanmay+Chandavarkar;Software+engineer;Building+learning+tools+for+the+browser" alt="Tanmay Chandavarkar · Software engineer · Building learning tools for the browser" />
 
 <br>
 
