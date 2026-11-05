@@ -21,7 +21,7 @@ About six years as a software engineer, and I've spent them climbing the stack: 
 ╔════════════════════════════════════════════════════════════════╗
 ║  THE STACK · built from the bottom up                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  5  TOOLS FOR AI  claude-token-meter · ai-tools             ║
+║  5  TOOLS FOR AI  claude-token-meter · ai-tools                ║
 ╟────────────────────────────────────────────────────────────────╢
 ║  4  BROWSER       fretRoad · AlgoLingo · bheja-frAI            ║
 ╟────────────────────────────────────────────────────────────────╢
