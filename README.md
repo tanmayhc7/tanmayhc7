@@ -21,7 +21,7 @@ About six years as a software engineer, and I've spent them climbing the stack: 
 ╔════════════════════════════════════════════════════════════════╗
 ║  THE STACK · built from the bottom up                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  5  TOOLS FOR AI  claude-token-meter · ai-tools                ║
+║  5  TOOLS FOR AI  claude-token-meter · ai-tools · perch        ║
 ╟────────────────────────────────────────────────────────────────╢
 ║  4  BROWSER       fretRoad · AlgoLingo · bheja-frAI            ║
 ╟────────────────────────────────────────────────────────────────╢
@@ -67,15 +67,20 @@ About six years as a software engineer, and I've spent them climbing the stack: 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3>📟 claude-token-meter</h3>
 <p>A Claude Code plugin that shows token usage live while Claude is still responding, warns you at 80% and 100% of a budget, totals usage across every session on your machine, and prices a request before you send it.</p>
 <a href="https://github.com/tanmayhc7/claude-token-meter"><img src="https://img.shields.io/badge/code-24292f?style=flat-square&logo=github" alt="code" /></a>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3>🔐 ai-tools</h3>
 <p>Small, privacy-first native macOS apps for people who build with AI: KeyVault, LeakGuard, Redact and ContextPack. They run locally, so your keys and data stay on your machine.</p>
 <a href="https://github.com/tanmayhc7/ai-tools"><img src="https://img.shields.io/badge/code-24292f?style=flat-square&logo=github" alt="code" /></a>
+</td>
+<td width="33%" valign="top">
+<h3>🪺 Perch</h3>
+<p>Your MacBook's notch, turned into a live Claude Code dashboard: tokens, cost and budget, plus a Spotify remote, an AirDrop shelf, your next meeting and a one-line Ask Claude bar. A native macOS app.</p>
+<a href="https://github.com/tanmayhc7/perch"><img src="https://img.shields.io/badge/code-24292f?style=flat-square&logo=github" alt="code" /></a>
 </td>
 </tr>
 </table>
